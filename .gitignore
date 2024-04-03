@@ -17,6 +17,3 @@ tests/data/*
 
 /coverage
 /.nyc_output
-
-# dist
-dist
